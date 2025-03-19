@@ -1,0 +1,1000 @@
+ 1023  git push origin main
+ 1024  git branch
+ 1025  git checkout -b main
+ 1026  git add .
+ 1027  git commit -m "Initial commit"
+ 1028  git add .
+ 1029  git commit -m "Initial commit"
+ 1030  git push -u origin main
+ 1031  git remote add origin https://github.com/Saher236/TestRepo_1.git
+ 1032  git branch -M main
+ 1033  git push -u origin main
+ 1034  git init 
+ 1035  git add README.md
+ 1036  cd WebSite/
+ 1037  git init
+ 1038  git add .
+ 1039  git commit -m "Initial commit for website"
+ 1040  git remote add origin https://github.com/Saher236/TestRepo_1.git
+ 1041  git push -u origin main
+ 1042  git branch -u master
+ 1043  git branch -M main
+ 1044  git push -u origin main
+ 1045  clear
+ 1046  cd
+ 1047  cd TestRepo_1/
+ 1048  git add .
+ 1049  git commit -m "update few Files before push"
+ 1050  git push
+ 1051  cd ..
+ 1052  mkdit cloneApp
+ 1053  mkdir cloneApp
+ 1054  cd cloneApp/
+ 1055  code .
+ 1056  git clone https://github.com/Saher236/TestRepo_1.git
+ 1057  git clone https://github.com/Saher236/TestRepo_1
+ 1058  cd cloneApp/ & code .
+ 1059  cd cloneApp/
+ 1060  code .
+ 1061  cd
+ 1062  mkdir GitHub HomeWork
+ 1063  mkdir GitHub_HomeWork
+ 1064  cd GitHub_HomeWork/
+ 1065  code 
+ 1066  code .
+ 1067  cd
+ 1068  code .
+ 1069  mkdir TesTTTTTTTTT
+ 1070  cd TesTTTTTTTTT/
+ 1071  code .
+ 1072  mkdir GITHUB_HW
+ 1073  cd GITHUB_HW/
+ 1074  code .
+ 1075  touch commit.sh
+ 1076  chmod 777 commit.sh
+ 1077  ./commit.sh 1000 
+ 1078  ./commit.sh 1000 "Added version README.md"
+ 1079  sudo apt install gnumeric
+ 1080  ./commit.sh 1000 "Added version README.md"
+ 1081  touch commit.sh
+ 1082  chmod 777 commit.sh 
+ 1083  ./commit.sh 1000 "Added initial version of README.md"
+ 1084  chmod 777 commit.sh 
+ 1085  ./commit.sh 1000 "Added initial version of README.md"
+ 1086  sudo apt-get install xlsx2csv
+ 1087  chmod 777 commit.sh 
+ 1088  ./commit.sh 1000 "Added initial version of README.md"
+ 1089  git status
+ 1090  git init
+ 1091  ./commit.sh 1000 "Added initial version of README.md"
+ 1092  pip3 install pandas openpyxl
+ 1093  apt install python3-pip
+ 1094  python3 -c "import pandas; print(pandas.__version__)"
+ 1095  pip3 install pandas openpyxl
+ 1096  ./commit.sh 1000 "Added initial versio README.md"
+ 1097  sudo apt-get install xlsx2csv
+ 1098  ./commit.sh 1000 "Added initial versio README.md"
+ 1099  git add .
+ 1100  status
+ 1101  git status
+ 1102  ./commit.sh 1000 "Added initial versio README.md"
+ 1103  ./commit.sh 1000 "Added version README.md"
+ 1104  git add .
+ 1105  ./commit.sh 1000 "Added version README.md"
+ 1106  touch test.sh
+ 1107  sudo apt-get install xlsx2csv
+ 1108  t
+ 1109  chmod 777 test.sh
+ 1110  ./test.sh tasks.xlsx 
+ 1111  ls -l tasks.xlsx 
+ 1112  ./commit.sh 1000 "Added version README.md"
+ 1113  git checkout BR_README
+ 1114  git checkout -b BR_README
+ 1115  git branch
+ 1116  git checkout -b BR_README main
+ 1117  ./commit.sh 1000 "Added version README.md"
+ 1118  git status
+ 1119  ./commit.sh 1000 "Added version README.md"
+ 1120  git checkout -b BR_README
+ 1121  ./commit.sh 1000 "Added version README.md"
+ 1122  git status
+ 1123  git add . 
+ 1124  git status
+ 1125  ./commit.sh 1000 "Added version README.md"
+ 1126  ./commit.sh 1000 "Added version BR_README.md"
+ 1127  history 50 >> gitHubHistory.txt
+ 1128  touch test.sh
+ 1129  chmod 777 test.sh 
+ 1130  chmod 777 tasks.xlsx 
+ 1131  ./test.sh tasks.xlsx 
+ 1132  sudo apt-get install xlsx2csv
+ 1133  xlsx2csv input.xlsx output.csv
+ 1134  ./test.sh tasks.xlsx 
+ 1135  brew update  
+ 1136  ./test.sh tasks.xlsx 
+ 1137  cd
+ 1138  mkdir repo1
+ 1139  cd repo1/
+ 1140  code .
+ 1141  git init
+ 1142  clear
+ 1143  touch file1.txt
+ 1144  git add .
+ 1145  git commit -m "insert new file - file1.txt"
+ 1146  git checkout -b "br_1"
+ 1147  git branch
+ 1148  git commit -m "update in br_1"
+ 1149  clear
+ 1150  git merge br_1
+ 1151  status -s
+ 1152  status
+ 1153  git status
+ 1154  git add file1.txt
+ 1155  git status
+ 1156  git commit -m "Merge Conflict"
+ 1157  git merge master
+ 1158  clear
+ 1159  cd
+ 1160  code .
+ 1161  ؤي
+ 1162  cd
+ 1163  clear
+ 1164  history >> LastHistory.txt
+ 1165  code .
+ 1166  history
+ 1167  cat log --oneline
+ 1168  cd
+ 1169  mkdir -p LINUX_Course_Project/{DOWNLOADS,CODE,DATA,BACKUPS,Work/{Q1,Q2,Q3,Q4}}
+ 1170  cd LINUX_Course_Project/
+ 1171  code .
+ 1172  ls
+ 1173  ls -ld 
+ 1174  sudo chmod -R 755 /home/user/LINUX_Course_Project
+ 1175  sudo chmod -R 755 /LINUX_Course_Project
+ 1176  sudo chmod -R 755 LINUX_Course_Project
+ 1177  sudo chmod -R 755 LINUX_COURSE_PROJECT
+ 1178  git add Work/Q2/plant_plots.py
+ 1179  git init
+ 1180  git config --global init.defaultBranch main
+ 1181  git init
+ 1182  git add .
+ 1183  status
+ 1184  git status
+ 1185  git commit -m 
+ 1186  git commit -m "Added initial Commit"
+ 1187  ls -la
+ 1188  git add .
+ 1189  git status
+ 1190  git commit -m "Initial commit - Added project structure"
+ 1191  wget -P DOWNLOADS https://github.com/Telhai/Git/LINUX_COURSE_WORK/archive/refs/tags/downloads.tar.gz
+ 1192  git config --global init.defaultBranch main
+ 1193  git init
+ 1194  git add .
+ 1195  wget -P DOWNLOADS https://github.com/Telhai/Git/LINUX_COURSE_WORK/archive/refs/tags/downloads.tar.gz
+ 1196  wget -O DOWNLOADS/download.tar.gz https://github.com/Telhai-Git/LINUX_COURSE_WORK/archive/refs/tags/downloads.tar.gz
+ 1197  tar -xzvf DOWNLOADS/download.tar.gz -C DOWNLOADS
+ 1198  git add .
+ 1199  git commit -m "Initial commit - Added Downloaded Files"
+ 1200  rm DOWNLOADS/download.tar.gz
+ 1201  git checkout -b BR_Q1
+ 1202  git branch
+ 1203  find DOWNLOADS -type f \( -name "*.py" -o -name "*.sh" \) -exec cp --parents {} CODE/ \;
+ 1204  find DOWNLOADS -type f \( -name "*.sh" -o -name "*.py" -o -name "*.cpp" -o -name "*.java" \) -exec cp {} CODE/ \;
+ 1205  find DOWNLOADS -type f \( -name "*.sh" \) -exec cp {} CODE/ \;
+ 1206  find DOWNLOADS -type f \( -name "*.csv" -o -name "*.jpg" -o -name "*.txt" \) -exec cp {} DATA/ \;
+ 1207  cd Work/Q1/q1_output.txt
+ 1208  echo "Time: $(date)" > Work/Q1/q1_output.txt
+ 1209  echo "USER DETAILS: $(grep "^$USER:" /etc/passwd)" >> Work/Q1/q1_output.txt
+ 1210  echo echo "REPO: $(pwd)" >> Work/Q1/q1_output.txt
+ 1211  echo "GithubUrl: <your-private-github-url>" >> Work/Q1/q1_output.txt
+ 1212  echo "VERSIONID: $(grep '^VERSION_ID=' /etc/os-release | cut -d '=' -f2)" >> Work/Q1/q1_output.txt
+ 1213  echo "GithubUrl: <https://github.com/Saher236?tab=repositories>" >> Work/Q1/q1_output.txt
+ 1214  echo "GithubUrl: <https://github.com/Saher236>" >> Work/Q1/q1_output.txt
+ 1215  echo "VERSIONID: $(grep '^VERSION_ID=' /etc/os-release | cut -d '=' -f2)" >> Work/Q1/q1_output.txt
+ 1216  echo "----------------------------------------------------------------------" >> Work/Q1/q1_output.txt
+ 1217  sudo apt install tree
+ 1218  tree LINUX_Course_Project >> Work/Q1/q1_output.txt 
+ 1219  chmod 777 LINUX_Course_Project 
+ 1220  sudo chmod -R 755 LINUX_Course_Project
+ 1221  sudo chmod -R 755 LINUX_COURSE_PROJECT
+ 1222  tree  >> Work/Q1/q1_output.txt 
+ 1223  echo "----------------------------------------------------------------------" >> Work/Q1/q1_output.txt
+ 1224  find ~ -name "*.sh" >> Work/Q1/q1_output.txt
+ 1225  find  -name "*.sh" >> Work/Q1/q1_output.txt
+ 1226  find ~ -name "*.sh" >> Work/Q1/q1_output.txt
+ 1227  echo "----------------------------------------------------------------------" >> Work/Q1/q1_output.txt
+ 1228  git checkout main
+ 1229  git branch
+ 1230  git checkout master
+ 1231  git merge BR_Q1
+ 1232  git commit -m "Merged BR_Q1 into master"
+ 1233  git remote add origin https://github.com/Saher236/LINUX_Course_Project.git
+ 1234  git branch -M main
+ 1235  git push -u origin main
+ 1236  git checkout main
+ 1237  git merge BR_Q1
+ 1238  git commit -m "Merged BR_Q1 into main"AKDsssscasdasasasslkksasa;d
+ 1239  git log --oneline > Work/Q1/git_commits.log
+ 1240   git log --oneline
+ 1241  n
+ 1242  cat history 
+ 1243  history 
+ 1244  git log --oneline --graph --all
+ 1245  git log --oneline --graph --all > Work/Q1/git_commits.log 
+ 1246  history > LinuxHistory.txt
+ 1247  history > Work/Q1/HistoryLinux.txt
+ 1248  git push origin main
+ 1249  git push origin BR_Q1
+ 1250  git status
+ 1251  git push origin main
+ 1252  git push origin BR_Q1
+ 1253  clear
+ 1254  git checkout -b BR_Q2
+ 1255  cp CODE/plant.py Work/Q2
+ 1256  pip install matplotlib numpy
+ 1257  sudo apt update
+ 1258  sudo apt install python3-matplotlib python3-numpy
+ 1259  python3 Work/Q2/plant.py
+ 1260  mv *.png Work/Q2/Diagrams_1/
+ 1261  mkdir -p Work/Q2/Diagrams_1
+ 1262  mv *.png Work/Q2/Diagrams_1/
+ 1263  tar -czvf BACKUPS/Diagrams_1_$(date +%Y-%m-%d).tar.gz -C Work/Q2 Diagrams_1
+ 1264  git add .
+ 1265  git commit -m "Added plant.py and Diagram_1"
+ 1266  git checkout main
+ 1267  git merge BR_Q2
+ 1268  git push origin main
+ 1269  git push origin BR_Q2
+ 1270  mkdir Work/Q2/requirements.txt
+ 1271  rm Work/Q2/requirements.txt/
+ 1272  rf Work/Q2/requirements.txt/
+ 1273  touch Work/Q2/plant_plots
+ 1274  touch Work/Q2/plant_plots.py
+ 1275  echo "matplotlib" > Work/Q2/requirements.txt
+ 1276  echo "argparse" >> Work/Q2/requirements.txt
+ 1277  pip install -r Work/Q2/requirements.txt
+ 1278  pip install -r Work/Q2/requirements.txt 
+ 1279  python3 Work/Q2/plant_plots.py --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1280  python3 Work/Q2/plant_plots.py --plant "Rose" --height 30 35 40 45 50 --leaf_count 25 30 35 40 45 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1281  mkdir -p Work/Q2/Diagrams_2
+ 1282  mv *.
+ 1283  tar -czvf BACKUPS/Diagrams_2_$(date +%Y-%m-%d).tar.gz -C Work/Q2 Diagrams_2
+ 1284  history > Work/Q2/linux_history_q2.log
+ 1285  git add .
+ 1286  git commit -m "Added plant_plots.py and Diagrams_2"
+ 1287  git checkout main
+ 1288  git merge BR_Q2
+ 1289  git push origin main
+ 1290  git push origin BR_Q2
+ 1291  clear
+ 1292  git checkout -b BR_Q3
+ 1293  touch Work/Q3/menu.sh
+ 1294  git checkout BR_Q2
+ 1295  git checkout -b BR_Q2
+ 1296  git 
+ 1297  git commit -m "Added plant_plots.py and Diagrams_2"
+ 1298  git checkout main
+ 1299  git merge BR_Q2
+ 1300  git push origin main
+ 1301  git push origin BR_Q2
+ 1302  git status
+ 1303  git add Work/Q2/plant_plots.py
+ 1304  git commit -m "Updated plant_plots.py"
+ 1305  git push origin main
+ 1306  git push origin BR_Q2
+ 1307  clear
+ 1308  git checkout -b BR_Q3
+ 1309  git branch BR_Q3
+ 1310  git checkout BR_Q3
+ 1311  git checkout -b BR_CSV
+ 1312  chmod +x Work/Q3/menu.sh
+ 1313  ./Work/Q3/menu.sh
+ 1314  chmod +x Work/Q3/menu.sh
+ 1315  ./Work/Q3/menu.sh
+ 1316  chmod +x Work/Q3/menu.sh
+ 1317  ./Work/Q3/menu.sh
+ 1318  chmod +x Work/Q3/menu.sh
+ 1319  ./Work/Q3/menu.sh
+ 1320  chmod +x Work/Q3/menu.sh
+ 1321  ./Work/Q3/menu.sh
+ 1322  chmod +x Work/Q3/menu.sh
+ 1323  ./Work/Q3/menu.sh
+ 1324  chmod +x Work/Q3/menu.sh
+ 1325  ./Work/Q3/menu.sh
+ 1326  chmod +x Work/Q3/menu.sh
+ 1327  ./Work/Q3/menu.sh
+ 1328  chmod +x Work/Q3/menu.sh
+ 1329  ./Work/Q3/menu.sh
+ 1330  chmod +x Work/Q3/menu.sh
+ 1331  ./Work/Q3/menu.sh
+ 1332  chmod +x Work/Q3/menu.sh
+ 1333  ./Work/Q3/menu.sh
+ 1334  chmod +x Work/Q3/menu.sh
+ 1335  ./Work/Q3/menu.sh
+ 1336  chmod +x Work/Q3/menu.sh
+ 1337  ./Work/Q3/menu.sh
+ 1338  chmod +x Work/Q3/menu.sh
+ 1339  ./Work/Q3/menu.sh
+ 1340  chmod +x Work/Q3/menu.sh
+ 1341  ./Work/Q3/menu.sh
+ 1342  chmod +x Work/Q3/menu.sh
+ 1343  ./Work/Q3/menu.sh
+ 1344  chmod +x Work/Q3/menu.sh
+ 1345  ./Work/Q3/menu.sh
+ 1346  chmod +x Work/Q3/menu.sh
+ 1347  ./Work/Q3/menu.sh
+ 1348  chmod +x Work/Q3/menu.sh
+ 1349  ./Work/Q3/menu.sh
+ 1350  chmod +x Work/Q3/menu.sh
+ 1351  ./Work/Q3/menu.sh
+ 1352  chmod +x Work/Q3/menu.sh
+ 1353  ./Work/Q3/menu.sh
+ 1354  chmod +x Work/Q3/menu.sh
+ 1355  ./Work/Q3/menu.sh
+ 1356  chmod +x Work/Q3/menu.sh
+ 1357  ./Work/Q3/menu.sh
+ 1358  chmod +x Work/Q3/menu.sh
+ 1359  ./Work/Q3/menu.sh
+ 1360  chmod +x Work/Q3/menu.sh
+ 1361  ./Work/Q3/menu.sh
+ 1362  chmod +x Work/Q3/menu.sh
+ 1363  ./Work/Q3/menu.sh
+ 1364  chmod +x Work/Q3/menu.sh
+ 1365  ./Work/Q3/menu.sh
+ 1366  chmod +x Work/Q3/menu.sh
+ 1367  ./Work/Q3/menu.sh
+ 1368  chmod +x Work/Q3/menu.sh
+ 1369  ./Work/Q3/menu.sh
+ 1370  chmod +x Work/Q3/menu.sh
+ 1371  ./Work/Q3/menu.sh
+ 1372  3
+ 1373  chmod +x Work/Q3/menu.sh
+ 1374  ./Work/Q3/menu.sh
+ 1375  mv *.png Work/Q3/
+ 1376  mv *.csv Work/Q3/
+ 1377  history > Work/Q3/
+ 1378  history > Work/Q3/history_Q3.txt
+ 1379  git add .
+ 1380  git commit -m "Added New"
+ 1381  git checkout main
+ 1382  git marge BR_Q3
+ 1383  git merge BR_Q3
+ 1384  nano Work/Q2/plant_plots.py 
+ 1385  git add Work/Q2/plant_plots.py
+ 1386  git commit -m "Update plant_plots.py"
+ 1387  git merge BR_Q3
+ 1388  git push origin main
+ 1389  git push origin BR_Q3
+ 1390  chmod +x Work/Q3/menu.sh
+ 1391  ./Work/Q3/menu.sh
+ 1392  chmod +x Work/Q3/menu.sh
+ 1393  ./Work/Q3/menu.sh
+ 1394  chmod +x Work/Q3/menu.sh
+ 1395  ./Work/Q3/menu.sh
+ 1396  chmod +x Work/Q3/menu.sh
+ 1397  ./Work/Q3/menu.sh
+ 1398  chmod +x Work/Q3/menu.sh
+ 1399  ./Work/Q3/menu.sh
+ 1400  chmod +x Work/Q3/menu.sh
+ 1401  ./Work/Q3/menu.sh
+ 1402  chmod +x Work/Q3/menu.sh
+ 1403  ./Work/Q3/menu.sh
+ 1404  chmod +x Work/Q3/menu.sh
+ 1405  ./Work/Q3/menu.sh
+ 1406  chmod +x Work/Q3/menu.sh
+ 1407  ./Work/Q3/menu.sh
+ 1408  chmod +x Work/Q3/menu.sh
+ 1409  ./Work/Q3/menu.sh
+ 1410  chmod +x Work/Q3/menu.sh
+ 1411  ./Work/Q3/menu.sh
+ 1412  chmod +x Work/Q3/menu.sh
+ 1413  ./Work/Q3/menu.sh
+ 1414  chmod +x Work/Q3/menu.sh
+ 1415  ./Work/Q3/menu.sh
+ 1416  chmod +x Work/Q3/menu.sh
+ 1417  ./Work/Q3/menu.sh
+ 1418  chmod +x Work/Q3/menu.sh
+ 1419  ./Work/Q3/menu.sh
+ 1420  chmod +x Work/Q3/menu.sh
+ 1421  ./Work/Q3/menu.sh
+ 1422  chmod +x Work/Q3/menu.sh
+ 1423  ./Work/Q3/menu.sh
+ 1424  chmod +x Work/Q3/menu.sh
+ 1425  ./Work/Q3/menu.sh
+ 1426  chmod +x Work/Q3/menu.sh
+ 1427  ./Work/Q3/menu.sh
+ 1428  chmod +x Work/Q3/menu.sh
+ 1429  ./Work/Q3/menu.sh
+ 1430  chmod +x Work/Q3/menu.sh
+ 1431  ./Work/Q3/menu.sh
+ 1432  chmod +x Work/Q3/menu.sh
+ 1433  ./Work/Q3/menu.sh
+ 1434  chmod +x Work/Q3/menu.sh
+ 1435  ./Work/Q3/menu.sh
+ 1436  chmod +x Work/Q3/menu.sh
+ 1437  ./Work/Q3/menu.sh
+ 1438  chmod +x Work/Q3/menu.sh
+ 1439  ./Work/Q3/menu.sh
+ 1440  history > Work/Q3/linux_history_q3.log
+ 1441  git add .
+ 1442  git checkout BR_CSV
+ 1443  git fetch origin
+ 1444  git checkout main
+ 1445  git checkout BR_CVS
+ 1446  git merge origin/main
+ 1447  git status
+ 1448  git checkout main
+ 1449  git rm 1 2
+ 1450  git rm *.png
+ 1451  git rm *.csv
+ 1452  git commit -m "Deleted unnecessary files"
+ 1453  git push origin main
+ 1454  git checkout -b BR_Q4
+ 1455  touch Work/Q4/process_csv.sh
+ 1456  chmod +x Work/Q4/process_csv.sh
+ 1457  ./Work/Q4/process_csv.sh 
+ 1458  #
+ 1459  # Usage: 
+ 1460  #   ./script_q4.sh /path/to/plants.csv
+ 1461  #
+ 1462  # Description:
+ 1463  #   1. Receives a CSV file path as an argument.
+ 1464  #   2. Checks if a virtual environment (venv) exists; if not, creates and activates it.
+ 1465  #   3. Installs Python dependencies from requirements.txt.
+ 1466  #   4. Reads each data row from the CSV and calls plant_plots.py with the parameters.
+ 1467  #   5. Creates a directory for each plant (in Work/Q4 or any desired location).
+ 1468  #   6. Logs successes/errors to a log file.
+ 1469  #   7. Compresses the generated diagrams into BACKUPS with a date/time-stamped filename.
+ 1470  #
+ 1471  ### 1) Check if CSV path was provided
+ 1472  if [[ -z "$1" ]]; then   echo "Error: No CSV file path provided!";   echo "Usage: $0 /path/to/plants.csv";   exit 1; fi
+ 1473  CSV_FILE="$1"
+ 1474  if [[ ! -f "$CSV_FILE" ]]; then   echo "Error: CSV file '$CSV_FILE' does not exist!";   exit 1; fi
+ 1475  ### 2) Check if venv exists; if not, create it
+ 1476  # We'll store the venv in a folder named 'venv_q4' inside Q4
+ 1477  VENV_DIR="venv_q4"
+ 1478  if [[ ! -d "$VENV_DIR" ]]; then   echo "No virtual environment found. Creating one at '$VENV_DIR'...";   python3 -m venv "$VENV_DIR";   if [[ $? -ne 0 ]]; then     echo "Error: Failed to create virtual environment!";     exit 1;   fi; fi
+ 1479  ### 3) Activate the venv and install requirements
+ 1480  source "$VENV_DIR/bin/activate"
+ 1481  if [[ $? -ne 0 ]]; then   echo "Error: Failed to activate virtual environment!";   exit 1; fi
+ 1482  # Install Python dependencies
+ 1483  REQ_FILE="../requirements.txt"  # Adjust path if needed
+ 1484  if [[ -f "$REQ_FILE" ]]; then   echo "Installing dependencies from $REQ_FILE...";   pip install -r "$REQ_FILE"; else   echo "Warning: requirements.txt not found at $REQ_FILE. Skipping pip install."; fi
+ 1485  ### 4) Prepare logging
+ 1486  LOG_FILE="script_q4.log"
+ 1487  echo "===== Q4 Script Log (start): $(date) =====" > "$LOG_FILE"
+ 1488  ### 5) Read CSV and process each plant
+ 1489  # Assume CSV header: Plant,Height,LeafCount,DryWeight
+ 1490  # If your CSV has multiple measurements, adjust parsing accordingly.
+ 1491  tail -n +2 "$CSV_FILE" | while IFS=',' read -r plant height leaf_count dry_weight; do   
+ 1492    plant="$(echo "$plant" | xargs)";   height="$(echo "$height" | xargs)";   leaf_count="$(echo "$leaf_count" | xargs)";   dry_weight="$(echo "$dry_weight" | xargs)";    if [[ -z "$plant" ]]; then     echo "Skipping empty plant row..." | tee -a "$LOG_FILE";     continue;   fi; 
+ 1493    PLANT_DIR="${plant// /_}"  # replace spaces with underscores
+ 1494    mkdir -p "$PLANT_DIR";    echo "Processing plant '$plant'..." | tee -a "$LOG_FILE"; 
+ 1495    python3 plant_plots.py     --plant "$plant"     --height "$height"     --leaf_count "$leaf_count"     --dry_weight "$dry_weight"     --output_dir "$PLANT_DIR"  # e.g., if your script supports --output_dir
+ 1496     if [[ $? -eq 0 ]]; then     echo "SUCCESS: Diagrams generated for '$plant' in '$PLANT_DIR'." | tee -a "$LOG_FILE";   else     echo "ERROR: Diagram generation failed for '$plant'." | tee -a "$LOG_FILE";   fi;  done
+ 1497  echo "===== Q4 Script Log (end): $(date) =====" >> "$LOG_FILE"
+ 1498  ### 6) Compress the plant directories
+ 1499  # We'll store the tarball in BACKUPS with date/time in the filename
+ 1500  BACKUPS_DIR="../../BACKUPS"  # Adjust path to your BACKUPS folder
+ 1501  mkdir -p "$BACKUPS_DIR"
+ 1502  TIMESTAMP="$(date +%Y%m%d_%H%M%S)"
+ 1503  TARBALL_NAME="diagrams_backup_$TIMESTAMP.tar.gz"
+ 1504  # We only want to compress the plant directories, ignoring venv_q4 and the script itself
+ 1505  tar -czf "$BACKUPS_DIR/$TARBALL_NAME" --exclude="$VENV_DIR" --exclude="*.log" --exclude="script_q4.sh" --exclude="plant_plots.py" ./*
+ 1506  echo "Compressed diagrams into '$BACKUPS_DIR/$TARBclear
+ 1507  clear
+ 1508  ./Work/Q4/process_csv.sh plant.csv
+ 1509  ./Work/Q4/process_csv.sh DATA/plant.csv
+ 1510  ./Work/Q4/process_csv.sh ./DATA/plant.csv
+ 1511  ./Work/Q4/process_csv.sh /DATA/plant.csv
+ 1512  ./Work/Q4/process_csv.sh /DATA/plants.csv
+ 1513  ./Work/Q4/process_csv.sh
+ 1514  ./Work/Q4/process_csv.sh DATA/plants.csv
+ 1515  ./Work/Q4/process_csv.sh /DATA/plants.csv
+ 1516  ./Work/Q4/process_csv.sh
+ 1517  chmod +x Work/Q4/process_csv.sh
+ 1518  ./script_q4.sh ../../DATA/plants.csv
+ 1519  ./Work/Q4/process_csv.sh ../../DATA/plants.csv
+ 1520  ./Work/Q4/process_csv.sh ../../DATA/plants
+ 1521  ./Work/Q4/process_csv.sh DATA/plants
+ 1522  ./Work/Q4/process_csv.sh DATA/plants.csv
+ 1523  sudo apt update
+ 1524  sudo apt install python3.12-venv
+ 1525  cd Work/Q4
+ 1526  python3 -m venv venv
+ 1527  source venv/bin/activate
+ 1528  pip install -r  requirements.txt
+ 1529  pip install -r Work/Q2/requirements.txt
+ 1530  cd
+ 1531  cd LINUX_Course_Project/
+ 1532  pip install -r Work/Q2/requirements.txt
+ 1533  ./Work/Q4/process_csv.sh DATA/plants.csv
+ 1534  chmod +x Work/Q4/process_csv.sh
+ 1535  ./Work/Q4/process_csv.sh DATA/plants.csv
+ 1536  ls Work/Q4/Diagrams/
+ 1537  ./Work/Q4/process_csv.sh DATA/plants.csv
+ 1538  history > Work/Q4/linux_history_q4.log
+ 1539  tar -czvf BACKUPS/Diagrams_Q4_$(date +%Y-%m-%d).tar.gz -C Work/Q4 Diagrams
+ 1540  git branch
+ 1541  git add .
+ 1542  git commit -m "Add bash process.csv"
+ 1543  git checkout main
+ 1544  git merge BR_Q4
+ 1545  git push origin main
+ 1546  git push origin BR_Q4
+ 1547  git branch
+ 1548  git brach
+ 1549  git branch
+ 1550  deactive
+ 1551  deactivate
+ 1552  chmod +x Work/Q4/process_csv.sh
+ 1553  ./Work/Q4/process_csv.sh DATA/plants.csv
+ 1554  ./Work/Q4/process_csv.sh -p DATA/plants.csv
+ 1555  chmod +x Work/Q4/process_csv.sh
+ 1556  ./Work/Q4/process_csv.sh -p DATA/plants.csv
+ 1557  git branch
+ 1558  ./Work/Q4/process_csv.sh -p DATA/plants.csv
+ 1559  git checkout -b BR_Q5
+ 1560  cd Work/Q5
+ 1561  mkdir Work/Q5
+ 1562  cd Work/Q5
+ 1563  git brach
+ 1564  git branch
+ 1565  touch Dockerfile
+ 1566  docker build -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1567  snap install docker
+ 1568  apt  install docker.io
+ 1569  docker build -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1570  docker build -t plant-analyzer -f Work/Q5/Dockerfile
+ 1571  cd ..
+ 1572  .
+ 1573  ..
+ 1574  cd ..
+ 1575  docker build -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1576  docker run --rm plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1577  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1578  docker build -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1579  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1580  ls -l Work/Q2/plant_plots.py
+ 1581  docker build -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1582  docker run --rm -it plant-analyzer ls -l /app
+ 1583  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1584  docker run --rm -it plant-analyzer /bin/bash
+ 1585  docker run --rm -it --entrypoint /bin/bash plant-analyzer
+ 1586  docker build --no-cache -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1587  docker run --rm -it plant-analyzer /bin/bash
+ 1588  docker build --no-cache -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1589  pip install --upgrade pip
+ 1590  docker run --rm -it plant-analyzer /bin/bash
+ 1591  docker run --rm plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1592  docker build --no-cache -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1593  docker run --rm plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1594  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1595  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app/Diagrams plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1596  ls Work/Q5/Diagrams
+ 1597  docker run --rm plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1598  docker run --rm -v $(pwd)/Work/Q5:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1599  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app/Diagrams plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1600  ls Work/Q5
+ 1601  docker run --rm plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1602  ls Work/Q5/Diagrams
+ 1603  docker run --rm -it plant-analyzer /bin/bash
+ 1604  ls -l
+ 1605  cd Work/Q5/Diagrams/
+ 1606  docker run --rm -it plant-analyzer /bin/bash
+ 1607  docker run --rm -it --entrypoint /bin/bash plant-analyzer
+ 1608  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1609  cd ..
+ 1610  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1611  docker build -t plant-analyzer -f Work/Q5/Dockerfile .
+ 1612  docker run --rm -it --entrypoint /bin/bash plant-analyzer
+ 1613  docker run --rm plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1614  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1615  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app/Diagrams plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1616  docker run --rm -v $(pwd)/Work/Q5/Diagrams:/app/Diagrams --workdir /app plant-analyzer --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1617  ls Work/Q5/Diagrams
+ 1618  docker run --rm -it plant-analyzer /bin/bash
+ 1619  docker run --rm -it --entrypoint /bin/bash plant-analyzer
+ 1620  ls Work/Q5/Diagrams
+ 1621  git branch
+ 1622  docker build -t plant-analyzer Work/Q5/ 
+ 1623  git branch
+ 1624  cd Work/Q5
+ 1625  docker run -it --name diagram_container ubuntu bash
+ 1626  docker cp ../Q2/plant.py diagram_container:/plant.py
+ 1627  docker run -it --name diagram_container ubuntu bash
+ 1628  docker start -ai diagram_container
+ 1629  docker cp diagram_container:/merged.png .
+ 1630  docker cp diagram_container:/reversed_merged.png .
+ 1631  docker cp diagram_container:/docker_history.log .
+ 1632  tar -czvf diagrams_backup.tar.gz *.png docker_history.log
+ 1633  docker cp diagram_container:/diagrams_backup.tar.gz .
+ 1634  tar -czvf /diagrams_backup.tar.gz *.png docker_history.log
+ 1635  ls -lh /
+ 1636  docker cp diagram_container:/diagrams_backup.tar.gz .
+ 1637  docker cp diagram_container:/root/diagrams_backup.tar.gz .
+ 1638  ls -h
+ 1639  tar -xzvf diagrams_backup.tar.gz
+ 1640  history > LINUX_HISTORY_5.txt
+ 1641  git add .
+ 1642  git commit -m "Added Docker"
+ 1643  git checkout main
+ 1644  git merge BR_Q5
+ 1645  git push origin main
+ 1646  git push origin BR_Q5
+ 1647  cd B
+ 1648  mkdir B
+ 1649  cd B
+ 1650  docker build -t plant_plotter .
+ 1651  git checkout -b BR_Q5_B
+ 1652  docker build -t plant_plotter .
+ 1653  ls -a
+ 1654  nano Dockerfile
+ 1655  docker build -t plant_plotter .
+ 1656  docker build -t plant_plotter -f Dockerfile ../../
+ 1657  cp ../../Q2/plant_plots.py .
+ 1658  cp ../../Q2/requirements.txt .
+ 1659  docker build -t plant_plotter .
+ 1660  docker run -d --name my_plant_plotter plant_plotter --plant "Rose" ...
+ 1661  docker ps -a
+ 1662  docker run -d "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1663  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1664  cd
+ 1665  mkdir -p 
+ 1666  cd LINUX_Course_Project/Work/Q5
+ 1667  mkdir output
+ 1668  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/output/
+ 1669  cd ..
+ 1670  mkdir -p /root/LINUX_Course_Project/Work/Q5/B/output
+ 1671  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/B/output/
+ 1672  docker run --rm -it plant_plotter bash
+ 1673  cd Work/Q5/B/
+ 1674  docker build -t plant_plotter .
+ 1675  docker run --rm -it plant_plotter bash
+ 1676  docker build -t plant_plotter .
+ 1677  docker run --rm -it plant_plotter bash
+ 1678  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1679  docker rmi plant_plotter
+ 1680  docker build -t plant_plotter .
+ 1681  docker rmi plant_plotter
+ 1682  docker build -t plant_plotter .
+ 1683  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1684  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/B/output/
+ 1685  cd ..
+ 1686  cd .
+ 1687  cd ..
+ 1688  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/B/output/
+ 1689  docker run --rm -it plant_plotter bash
+ 1690  cd Work/Q5/B/
+ 1691  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1692  ls -lah Work/Q5/output/
+ 1693  ls -lah Work/Q5/B/output/
+ 1694  ls -lah output/
+ 1695  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/B/output/
+ 1696  docker cp $(docker create plant_plotter)://app/output/. output/
+ 1697  docker run -it plant_plotter bash
+ 1698  docker run -it --entrypoint /bin/bash plant_plotter
+ 1699  ls -l Work/Q5/output/
+ 1700  ls -l output/
+ 1701  docker run -it --entrypoint /bin/bash plant_plotter
+ 1702  cd ..
+ 1703  mkdir output
+ 1704  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/output/
+ 1705  docker cp $(docker create plant_plotter)://app/output/. output/
+ 1706  docker build -t plant_plotter .
+ 1707  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1708  docker cp $(docker create plant_plotter)://app/output/. output/
+ 1709  ls -la output/
+ 1710  docker run -it plant_plotter /bin/bash
+ 1711  docker build -t plant_plotter .
+ 1712  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1713  docker build -t plant_plotter .
+ 1714  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1715  docker build -t plant_plotter .
+ 1716  docker run -v "$(pwd)/output:/app/output" --name plant_container plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1717  docker cp $(docker create plant_plotter)://app/output/. output/
+ 1718  history > Work/Q5/linux_history_q5_docker.log
+ 1719  history > linux_history_q5_docker.log
+ 1720  git branch
+ 1721  git add .
+ 1722  git commit -m "Added Docker"
+ 1723  git checkout main
+ 1724  git merge BR_Q5_DOCKER
+ 1725  git merge BR_Q5_B
+ 1726  git push origin main
+ 1727  git push origin BR_Q5_B
+ 1728  git branch
+ 1729  git checkout -b BR_Q5_JAVA
+ 1730  mkdir DockerJAVA
+ 1731  cd DockerJAVA/
+ 1732  nano WaterMark.java
+ 1733  docker build -t java_watermark .
+ 1734  clear
+ 1735  docker build -t java_watermark .
+ 1736  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output students.txt
+ 1737  git branch
+ 1738  git chekout BR_Q5_B
+ 1739  git checkout BR_Q5_B
+ 1740  git checkout BR_Q5_JAVA
+ 1741  cd ..
+ 1742  git checkout BR_Q5_B
+ 1743  docker build -t plant_plotter .
+ 1744  pip install --upgrade pip
+ 1745  apt install python3-
+ 1746  docker build -t plant_plotter .
+ 1747  clear
+ 1748  docker build -t plant_plotter .
+ 1749  docker create --name temp_container plant_plotter
+ 1750  docker cp temp_container:/app/output/. Work/Q5/output/
+ 1751  cd .
+ 1752  cd ..
+ 1753  cd .
+ 1754  cd ..
+ 1755  docker cp temp_container:/app/output/. Work/Q5/output/
+ 1756  ls -lah Work/Q5/output/
+ 1757  docker start temp_container
+ 1758  docker exec -it temp_container ls -lah /app/output/
+ 1759  docker ps -a | grep temp_container
+ 1760  docker start -ai temp_container
+ 1761  cd Work/Q5
+ 1762  docker build -t plant_plotter .
+ 1763  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1764  ls -l output/
+ 1765  mkdir -p output
+ 1766  docker run --rm -v "/app" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1767  docker run -it -v "$(pwd)/output:/app/output" --name test_container plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1768  docker exec -it test_container bash
+ 1769  chmod 777 output
+ 1770  docker run -it -v "$(pwd)/output:/app/output" --name test_container plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1771  docker rm test_container
+ 1772  docker run -it -v "$(pwd)/output:/app/output" --name test_container plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1773  docker ps -ש
+ 1774  docker ps -a
+ 1775  docker rm -f $(docker ps -aq)
+ 1776  docker ps -a
+ 1777  docker build -t plant_plotter .
+ 1778  docker run --rm -v "/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1779  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1780  mkdir -p Work/Q5/output
+ 1781  docker cp $(docker create plant_plotter)://app/output/. Work/Q5/output/
+ 1782  docker cp $(docker create plant_plotter)://app/output/. /output/
+ 1783  ls -a output/
+ 1784  docker run --rm -it plant_plotter bash
+ 1785  cd . .
+ 1786  cd .
+ 1787  cd ..
+ 1788  docker run --rm -it plant_plotter bash
+ 1789  docker run --rm -it plant_plotter /bin/bash
+ 1790  cd Work/Q5
+ 1791  docker run --rm -it plant_plotter /bin/bash
+ 1792  docker create --name debug_container -it plant_plotter
+ 1793  import argparse
+ 1794  import matplotlib.pyplot as plt
+ 1795  # Setting the parameters to be received from the terminal
+ 1796  parser = argparse.ArgumentParser(description="Generate plant growth plots.")
+ 1797  parser.add_argument("--plant", type=str, required=True, help="Plant name")
+ 1798  parser.add_argument("--height", type=float, nargs="+", required=True, help="List of plant heights over time (cm)")
+ 1799  parser.add_argument("--leaf_count", type=int, nargs="+", required=True, help="List of leaf counts over time")
+ 1800  parser.add_argument("--dry_weight", type=float, nargs="+", required=True, help="List of dry weights (g)")
+ 1801  args = parser.parse_args()
+ 1802  plant = args.plant
+ 1803  height_data = args.height
+ 1804  leaf_count_data = args.leaf_count
+ 1805  dry_weight_data = args.dry_weight
+ 1806  print(f"Plant: {plant}")
+ 1807  print(f"Height data: {height_data} cm")
+ 1808  print(f"Leaf count data: {leaf_count_data}")
+ 1809  print(f"Dry weight data: {dry_weight_data} g")
+ 1810  #Create Graph
+ 1811  plt.figure(figsize=(10, 6))
+ 1812  plt.scatter(height_data, leaf_count_data, color='b')
+ 1813  plt.title(f'Height vs Leaf Count for {plant}')
+ 1814  plt.xlabel('Height (cm)')
+ 1815  plt.ylabel('Leaf Count')
+ 1816  plt.grid(True)
+ 1817  plt.savefig(f"{plant}_scatter.png")
+ 1818  plt.close()
+ 1819  #Creating a History Graph
+ 1820  plt.figure(figsize=(10, 6))
+ 1821  plt.hist(dry_weight_data, bins=5, color='g', edgecolor='black')
+ 1822  plt.title(f'Histogram of Dry Weight for {plant}')
+ 1823  plt.xlabel('Dry Weight (g)')
+ 1824  plt.ylabel('Frequency')
+ 1825  plt.grid(True)
+ 1826  plt.savefig(f"{plant}_histogram.png")
+ 1827  plt.close()
+ 1828  #Creating a line graph
+ 1829  weeks = [f'Week {i+1}' for i in range(len(height_data))]
+ 1830  plt.figure(figsize=(10, 6))
+ 1831  plt.plot(weeks, height_data, marker='o', color='r')
+ 1832  plt.title(f'{plant} Height Over Time')
+ 1833  plt.xlabel('Week')
+ 1834  plt.ylabel('Height (cm)')
+ 1835  plt.grid(True)
+ 1836  plt.savefig(f"{plant}_line_plot.png")
+ 1837  plt.close()
+ 1838  print(f"Generated plots for {plant}:")
+ 1839  print(f"Scatter plot saved as {plant}_scatter.png")
+ 1840  print(f"Histogram saved as {plant}_histogram.png")
+ 1841  print(f"Line plot saved as {plant}_line_plot.png")
+ 1842  docker run --rm -it --entrypoint /bin/bash plant_plotter
+ 1843  python3 /app/plant_plots.py --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1844  docker run --rm -it --entrypoint /bin/bash plant_plot
+ 1845  docker run -it --name python_plots_container python_plots
+ 1846  docker run --rm -it --entrypoint /bin/bash plant_plotter
+ 1847  docker cp $(docker create plant_plotter)://app/output/. output/
+ 1848  CONTAINER_ID=$(docker run -d plant_plotter)
+ 1849  docker cp $CONTAINER_ID:/app/output/. output/
+ 1850  docker stop $CONTAINER_ID && docker rm $CONTAINER_ID
+ 1851  ls -a output/
+ 1852  docker ps -a
+ 1853  docker exec -it plant_plotter ls -l /app/output
+ 1854  docker start hopeful_cohen
+ 1855  docker exec -it hopeful_cohen ls -l /app/output
+ 1856  docker logs hopeful_cohen
+ 1857  docker create --name temp_container plant_plotter
+ 1858  docker cp temp_container:/app/output/. output/
+ 1859  docker rm temp_container
+ 1860  history >> LINUX_HISTORY_5.txt
+ 1861  git branch
+ 1862  git checkout BR_Q5_JAVA
+ 1863  cd Work/Q5/JavaDocker
+ 1864  cd DockerJAVA
+ 1865  docker build -t java_watermark .
+ 1866  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output students.txt
+ 1867  docker run --rm -v "$(pwd)/output:/app" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output students.txt
+ 1868  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output students.txt
+ 1869  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark /app/output /app/students.txt
+ 1870  ls -l Work/Q5/DockerJAVA/output
+ 1871  ls -l output
+ 1872  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark /app/output /app/students.txt
+ 1873  docker build -t java_watermark .
+ 1874  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark /app/output /app/students.txt
+ 1875  docker build -t java_watermark .
+ 1876  docker run --rm -v "app:/app/output" -v "/students.txt:/app/students.txt" java_watermark /app/output /app/students.txt
+ 1877  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark /app/output /app/students.txt
+ 1878  touch run_containers.sh
+ 1879  chmod +x Work/Q5/run_containers.sh
+ 1880  chmod +x run_containers.sh
+ 1881  ./run_containers.sh 
+ 1882  chmod +x run_containers.sh
+ 1883  ./run_containers.sh 
+ 1884  docker run --rm -v "$(pwd)/output:/app/output" java_watermark output "John Doe - ID: 123456789"
+ 1885  cd ..
+ 1886  docker build -t plant_plotter .
+ 1887  pip install --upgrade pip
+ 1888  cd JavaDocker
+ 1889  cd DockerJAVA/
+ 1890  docker build -t java_watermark .
+ 1891  docker run --rm -v "$(pwd)/output:/app/output" plant_plotter --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1892  chmod +x run_containers.sh
+ 1893  ./run_containers.sh 
+ 1894  docker run --rm -it -v "$(pwd)/output:/app/output" java_watermark bash
+ 1895  docker build -t java_watermark .
+ 1896  docker images | grep java_watermark
+ 1897  docker run --rm -it -v "$(pwd)/output:/app/output" java_watermark bash
+ 1898  docker build -t java_watermark Work/Q5/DockerJAVA
+ 1899  docker build -t java_watermark
+ 1900  docker build -t java_watermark .
+ 1901  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output /app/students.txt
+ 1902  docker build -t java_watermark .
+ 1903  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output /app/students.txt
+ 1904  cd ..
+ 1905  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output /app/students.txt
+ 1906  cd Work/Q5
+ 1907  docker run --rm -v "$(pwd)/output:/app/output" -v "$(pwd)/students.txt:/app/students.txt" java_watermark output /app/students.txt
+ 1908  history > DockerJAVA/linux_history_q5_java.log
+ 1909  git add .
+ 1910  git commit -m "ADDED"
+ 1911  git checkout main
+ 1912  git merge BR_Q5_JAVA
+ 1913  git push origin main
+ 1914  git pull --rebase origin main
+ 1915  git branch
+ 1916  git push origin main
+ 1917  git checkout main
+ 1918  git add .
+ 1919  git commit -m "ADDED"
+ 1920  git branch
+ 1921  git ckeckout BR_Q5_JAVA
+ 1922  --help
+ 1923  help
+ 1924  cd DockerJAVA/
+ 1925  git ckeckout BR_Q5_JAVA
+ 1926  git branch
+ 1927  git add .
+ 1928  git commit -m "ADDEDd"
+ 1929  git status
+ 1930  git diff ../../Q2/plant_plots.py
+ 1931  git restore ../../Q2/plant_plots.py
+ 1932  git add ../../Q2/plant_plots.py
+ 1933  git commit -m "Updated plant_plots.py"
+ 1934  git status
+ 1935  git branch backup-main
+ 1936  git pull origin main --rebase
+ 1937  git add .
+ 1938  ls -la
+ 1939  cd ..
+ 1940  git add .
+ 1941  git rebase --continue
+ 1942  git pull origin main
+ 1943  git push origin main
+ 1944  cd Work/Q2
+ 1945  chmod +x plant.py 
+ 1946  ./plant.py 
+ 1947  cd .. ..
+ 1948  cd ..
+ 1949  pip install matplotlib
+ 1950  cd .. 
+ 1951  pip install matplotlib
+ 1952  python3 --version
+ 1953  sudo apt update
+ 1954  sudo apt install python3-pip
+ 1955  pip3 --version
+ 1956  python3 -m pip install matplotlib
+ 1957  sudo apt install python3-matplotlib
+ 1958  cd LINUX_Course_Project/Work/Q2
+ 1959  chmod +x plant.py 
+ 1960  ./plant.py 
+ 1961  pip install matplotlib numpy
+ 1962  python3 plant.py
+ 1963  sudo apt update
+ 1964  apt list --upgradable
+ 1965  sudo apt install python3-matplotlib python3-numpy
+ 1966  python3 Work/Q2/plant_plots.py --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1967  python3 plant_plots.py --plant "Rose" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1968  cd ..
+ 1969  code .
+ 1970  mkdir -p Final_LINUX_Course_Project/{DOWNLOADS,CODE,DATA,BACKUPS,Work/{Q1,Q2,Q3,Q4}}
+ 1971  cd Final_LINUX_Course_Project/
+ 1972  code .
+ 1973  history
+ 1974  cd ..
+ 1975  code .
+ 1976  mkdir -p Final_LINUX_Course_Project/{DOWNLOADS,CODE,DATA,BACKUPS,Work/{Q1,Q2,Q3,Q4}}
+ 1977  cd Final_LINUX_Course_Project/
+ 1978  code .
+ 1979  git init 
+ 1980  wget -P DOWNLOADS https://github.com/Telhai-Git/LINUX_COURSE_WORK/archive/refs/tags/downloads.tar.gz
+ 1981  tar -xzf DOWNLOADS/downloads.tar.gz 
+ 1982  rm LINUX_COURSE_WORK-downloads/
+ 1983  rm -rf LINUX_COURSE_WORK-downloads/
+ 1984  tar -xzf DOWNLOADS/downloads.tar.gz -C DOWNLOADS
+ 1985  clear
+ 1986  git add .
+ 1987  git commit -m "Added to DOWNALOADS"
+ 1988  rm DOWNLOADS/downloads.tar.gz
+ 1989  git checkout
+ 1990  git checkout -b BR_Q1
+ 1991  mv DOWNLOADS/*.py CODE/
+ 1992  mv DOWNLOADS/LINUX_COURSE_WORK-downloads/*.py CODE/
+ 1993  mv DOWNLOADS/LINUX_COURSE_WORK-downloads/*.{txt,jpg,csv} DATA/
+ 1994  echo "Time : $(date)" > Work/Q1/q1_output.txt
+ 1995  echo "USER DETAILS: $(grep $USER /etc/passwd)" >> Work/Q1/q1_output.txt
+ 1996  echo "REPO: $(pwd)" >> Work/Q1/q1_output.txt
+ 1997  echo "GithubUrl: <YOUR_GITHUB_URL>" >> Work/Q1/q1_output.txt
+ 1998  echo "VERSIONID: $(grep VERSION_ID /etc/os-release | cut -d '=' -f 2)" >> Work/Q1/q1_output.txt
+ 1999  clear
+ 2000  echo "GithubUrl: <https://github.com/Saher236>" >> Work/Q1/q1_output.txt
+ 2001  echo "VERSIONID: $(grep VERSION_ID /etc/os-release | cut -d '=' -f 2)" >> Work/Q1/q1_output.txt
+ 2002  echo "======================================" >> Work/Q1/q1_output.txt
+ 2003  tree Final_LINUX_Course_Project >> Work/Q1/q1_output.txt
+ 2004  sudo apt install tree
+ 2005  tree Final_LINUX_Course_Project >> Work/Q1/q1_output.txt
+ 2006  tree
+ 2007  tree >> Work/Q1/q1_output.txt
+ 2008  echo "======================================" >> Work/Q1/q1_output.txt
+ 2009  find ~ -name "*.sh" >> Work/Q1/q1_output.txt
+ 2010  clear
+ 2011  git checkout main
+ 2012  git merge BR_Q1
+ 2013  git commit -m "Merge BR_Q1 into main"
+ 2014  git checkout BR_Q1
+ 2015  git branch
+ 2016  git add .
+ 2017  git commit -m "Merge BR_Q1 into main"
+ 2018  git checkout main
+ 2019  git merge BR_Q1
+ 2020  git commit -m "Merge Done"
+ 2021  git log --oneline > Work/Q1/git_commits.log
+ 2022  history > history_Linux.txt
