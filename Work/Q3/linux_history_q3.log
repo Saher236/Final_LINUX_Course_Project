@@ -1,0 +1,8 @@
+ 1980  clear
+ 1981  git checkout -b BR_Q3
+ 1982  nano menu.sh
+ 1983  mv menu.sh Work/Q3/
+ 1984  git checkout -b BR_CSV
+ 1985  chmod +x Work/Q3/menu.sh 
+ 1986  ./Work/Q3/menu.sh 
+ 1987  history > Work/Q3/linux_history_q3.log
