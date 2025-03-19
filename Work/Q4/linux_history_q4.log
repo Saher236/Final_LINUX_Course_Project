@@ -1,0 +1,10 @@
+    1  history
+    2  git branch
+    3  git checkout -b BR_Q4
+    4  nano Work/Q4/process_csv.sh
+    5  mv *.csv Work/Q3
+    6  chmod +x Work/Q4/process_csv.sh 
+    7  ./Work/Q4/process_csv.sh DATA/plants.csv 
+    8  ./Work/Q4/process_csv.sh -p  DATA/plants.csv 
+    9  tar -czvf BACKUPS/diagrams_backup_$(date +%Y-%m-%d).tar.gz -C Work/Q4 Diagrams
+   10  history > Work/Q4/linux_history_q4.log
