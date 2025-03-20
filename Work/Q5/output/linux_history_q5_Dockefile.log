@@ -1,0 +1,10 @@
+    1  ls -l
+    2  python3 plant.py 
+    3  convert output/*.png +append output/AllPNG.png
+    4  convert output/*.png +append output/combined.png
+    5  mv Rose_*.png output/
+    6  clear
+    7  convert output/*.png +append output/combined.png
+    8  history > output/linux_history_q5_Dockefile.log
+    9  convert output/*.png -append output/combined_reversed.png
+   10  history > output/linux_history_q5_Dockefile.log

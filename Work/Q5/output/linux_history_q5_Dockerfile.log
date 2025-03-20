@@ -1,0 +1,5 @@
+    1  clear
+    2  python3 plant.py 
+    3  convert output/*.png -append output/combined_reversed.png
+    4  ls -l output/
+    5  history > output/linux_history_q5_Dockerfile.log
