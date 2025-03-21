@@ -1,0 +1,10 @@
+ 2003  clear
+ 2004  docker build -t java-watermark -f Work/Q5/C/Dockerfile .
+ 2005  clear
+ 2006  docker build -t java-watermark -f Work/Q5/C/Dockerfile .
+ 2007  clear
+ 2008  docker run --rm -v $(pwd)/output:/app/input -v $(pwd)/output_watermarked:/app/output java-watermark /app/input /app/output "Saher Jammal - ID: 209404946" "Rami AbuJabal - ID: 206528085"
+ 2009  chmod +x Work/Q5/C/run_containers.sh
+ 2010  ./Work/Q5/C/run_containers.sh 
+ 2011  ls output_watermarked/
+ 2012  history > Work/Q5/C/linux_history_q5C.log
