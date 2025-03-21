@@ -1,0 +1,13 @@
+ 1984  git branch
+ 1985  git checkout -b BR_Q5_B
+ 1986  docker build -t plant-plots-container -f Work/Q5/Dockerfile .
+ 1987  docker run --rm -v $(pwd)/output:/app/output plant-plots-container --plant "Tulip" --height 50 55 60 65 70 --leaf_count 35 40 45 50 55 --dry_weight 2.0 2.2 2.5 2.7 3.0
+ 1988  git branch
+ 1989  git add .
+ 1990  git commit -m "Move Pic To OutPut"
+ 1991  git checkout main
+ 1992  git merge BR_Q5_B
+ 1993  git push origin main
+ 1994  git push origin BR_Q5_B
+ 1995  clear
+ 1996  history > Work/Q5/B/linux_history_q5b.log
