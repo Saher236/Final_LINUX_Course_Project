@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use('Agg')  # שימוש במצב שלא דורש ממשק גרפי
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 plant = "Rose"

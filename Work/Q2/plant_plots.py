@@ -4,12 +4,10 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('Agg')
 
-# ודא שהקבצים יישמרו בתיקיית output בתוך הקונטיינר
 output_dir = "/app/output"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-# קבלת פרמטרים
 parser = argparse.ArgumentParser(description="Generate plant growth plots.")
 parser.add_argument("--plant", type=str, required=True, help="Plant name")
 parser.add_argument("--height", type=float, nargs="+", required=True, help="List of plant heights over time (cm)")
@@ -27,7 +25,6 @@ print(f"Height data: {height_data} cm")
 print(f"Leaf count data: {leaf_count_data}")
 print(f"Dry weight data: {dry_weight_data} g")
 
-# שמירת הגרפים בתוך התיקייה הנכונה
 plt.figure(figsize=(10, 6))
 plt.scatter(height_data, leaf_count_data, color='b')
 plt.title(f'Height vs Leaf Count for {plant}')
